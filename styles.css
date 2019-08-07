@@ -1,0 +1,182 @@
+/****************************Tag selector****************************/
+body {
+  margin: 0;
+  background-color: white;
+  width: 1000px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  color: grey;
+}
+
+a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 15px;
+}
+
+/***********************Class Selector***********************/
+.button {
+  position: absolute;
+  bottom: 10px;
+  left: 1200px;
+  height: 25px;
+  width: 120px;
+  border-radius: 5px;
+  border: 2px solid pink;
+  background-color: white;
+  color: #f638dc;
+}
+
+.buttn {
+  width: 250px;
+  height: 50px;
+  margin: 0 auto 0 100px;
+  font-family: 'Farro', sans-serif;
+  color: white;
+  background-color: #f090d9;
+  border-radius: 8px;
+  border: 4px solid #f090d9;
+  padding: 10px;
+}
+
+.btn {
+  position: absolute;
+  top: 59px;
+  left: 202px;
+  height: 35px;
+  width: 50px;
+  border: 1px solid grey;
+  background-color: #f090d9;
+}
+
+.bottom-container {
+  position: absolute;
+  top: 1800px;
+  height: 300px;
+  width: 91%;
+  background-color: hsl(192, 100%, 9%);
+  padding: 70px;
+  margin: 70px 0 0 0;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 20px;
+  left: 650px;
+  color: white;
+  font-size: 12px;
+}
+
+.community {
+  position: absolute;
+  top: 1450px;
+  left: 300px;
+  padding: 100px;
+  margin: 100px;
+}
+
+.desc {
+  position: absolute;
+  top: 120px;
+  left: 170px;
+  width: 16%;
+  color: white;
+}
+
+.description {
+  position: absolute;
+  top: 200px;
+  left: 300px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+}
+
+.first-ul {
+  position: absolute;
+  top: 120px;
+  left: 600px;
+  margin: 0 20px 0 20px;
+}
+
+.input {
+  height: 31px;
+  width: 250px;
+  border: 1px solid grey;
+}
+
+.illustrator {
+  height: 400px;
+  width: 400px;
+  position: relative;
+  top: 1070px;
+  left: 670px;
+}
+
+.next-container {
+  position: absolute;
+  top: 1000px;
+  left: 200px;
+  width: 30%;
+  margin: 100px auto 50px auto;
+  text-align: justify;
+}
+
+.screen {
+  margin: 5px;
+  height: 500px;
+  width: 700px;
+  padding: 30px;
+}
+
+.second-ul {
+  position: absolute;
+  top: 120px;
+  left: 800px;
+}
+
+.subscribe {
+  position: absolute;
+  top: 120px;
+  left: 1100px;
+  color: white;
+}
+
+.regs-button {
+  width: 250px;
+  height: 45px;
+  margin: 20px auto;
+  font-family: 'Farro', sans-serif;
+  color: white;
+  background-color: #ff00c8;
+  border-radius: 8px;
+  border: 2px solid #ff00c8;
+  padding: 10px;
+}
+
+.top-container {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+}
